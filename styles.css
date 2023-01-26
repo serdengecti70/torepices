@@ -1,0 +1,19 @@
+
+* {
+    font-size: 40px;
+    display: block;
+}
+.firstbox {
+    border: 20px solid red;
+    background-color: rebeccapurple ;
+
+}
+.secondbox{
+    border: 0 solid aqua;
+    background-color: blue;
+
+}
+
+
+
+
